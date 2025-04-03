@@ -2,10 +2,6 @@
 
 Bienvenue dans le projet **Simulation de Messages CAN pour Véhicules Électriques**. Ce projet permet de simuler et de tester les messages CAN utilisés dans les systèmes de contrôle des véhicules électriques. Il utilise des données provenant de fichiers CSV pour générer et envoyer les messages CAN, facilitant ainsi les tests et la simulation des comportements du véhicule.
 
-## Description
-
-Ce projet a pour but de simuler l'envoi de messages CAN utilisés pour le contrôle des différents systèmes d'un véhicule électrique, tels que les moteurs, les capteurs, et autres composants. Les données nécessaires à la simulation sont extraites d'un fichier CSV et sont utilisées pour générer des messages CAN compatibles avec un fichier DBC.
-
 ## Prérequis
 
 Avant de commencer, vous devez installer **pipx** et **Poetry**, qui vous permettront de gérer facilement l'environnement de développement et les dépendances du projet.
